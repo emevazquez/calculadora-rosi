@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[9709,["651","static/chunks/651-f5abe1fd49c83c1c.js","974","static/chunks/app/page-61a1e54b0c31ddb3.js"],"PricingCalculator"]
+3:I[484,[],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"min-h-screen bg-gradient-to-br from-[#fff0f5] to-[#ffe4e1] flex flex-col items-center py-12 px-4 sm:px-6 font-sans","children":[["$","div",null,{"className":"w-full max-w-md mb-8 text-center","children":[["$","h1",null,{"className":"text-4xl font-serif font-bold tracking-tight text-[#d87093] drop-shadow-sm","children":"Calculadora de Rosi 🎀"}],["$","p",null,{"className":"text-[#db7093] mt-2 text-sm font-medium opacity-80","children":"Para que vendas lindo y rápido ✨"}]]}],["$","$L2",null,{}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"rlcclIWId1mzcDGGhKt3h"}
+5:null
